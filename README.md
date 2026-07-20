@@ -1,3 +1,4 @@
+
 # PlaywrightFundamentals2x
 
 A small Playwright test repository for learning and experimenting with Playwright test automation.
